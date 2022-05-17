@@ -1,0 +1,7 @@
+官方文档：https://blog.wolfogre.com/posts/go-ppof-practice/
+相关命令：
+go tool pprof -http=:8080 "http://localhost:6060/debug/pprof/heap"
+
+=== gortinue || mutex
+
+可以去查看火焰图等
